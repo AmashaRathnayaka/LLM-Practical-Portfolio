@@ -3,7 +3,7 @@
 PUSL3205 – Large Language Models and Generative AI Practical Portfolio
 
 **Student:** Rathnayaka Mudiyanselage Amasha Udani Rathnayaka  
-**Student Number:** 109  
+**Student Number:** 10965297 
 **Module Code:** PUSL3205  
 **Assessment:** P1 – Individual Practical Portfolio (20%)
 
